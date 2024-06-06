@@ -1,0 +1,1 @@
+Collection of write ups of Real-world ML systems, based on [this resource](https://www.evidentlyai.com/ml-system-design) by [Evidently AI](https://www.evidentlyai.com/)
